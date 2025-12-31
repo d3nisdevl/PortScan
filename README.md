@@ -60,8 +60,6 @@ python main.py
 
 ## Вы можете редактировать список портов в файле config.py:
 ```
-python
-
 ports_dict = {
     20: "FTP-DATA",
     21: "FTP",
