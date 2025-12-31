@@ -47,8 +47,10 @@ pip install -r requirements.txt
 ## Запустите скрипт:
 ```
 python main.py
-Введите IP-адрес или доменное имя для сканирования.
+- Введите IP-адрес или доменное имя для сканирования..
 ```
+
+##
 
 ![Пример использования](https://raw.githubusercontent.com/DenisPythoneer/PortScan/main/image/ScreenshotTwo.png)
 
