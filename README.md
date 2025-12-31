@@ -74,4 +74,4 @@
 
 ---
 
-## 🔗 Ссылка на автора: https://github.com/DenisSh33l4r
+## 🔗 Ссылка на автора: https://github.com/DenisEx8l0it
