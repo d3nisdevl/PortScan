@@ -59,16 +59,16 @@ python main.py
 ## ⚙️ Настройка
 
 ## Вы можете редактировать список портов в файле config.py:
-    
-    python
+```
+python
 
-    ports_dict = {
-        20: "FTP-DATA",
-        21: "FTP",
-        22: "SSH",
-        # ... и другие порты
-    }
-
+ports_dict = {
+    20: "FTP-DATA",
+    21: "FTP",
+    22: "SSH",
+    # ... и другие порты
+}
+```
 ---
 
 ## 🔗 Ссылка на автора: https://github.com/DenisEx8l0it
