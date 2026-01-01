@@ -29,7 +29,7 @@
 
 ## 📦  Установка
 
-### **Клонируйте репозиторий
+### Клонируйте репозиторий
 ```
 git clone https://github.com/DenisEx8pl0it/PortScan.git
 cd PortScan
