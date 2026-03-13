@@ -69,4 +69,4 @@ ports_dict = {
 ```
 ---
 
-## 🔗 Ссылка на автора: https://github.com/DenisEx8l0it
+## 🔗 Ссылка на автора: https://github.com/d3nisdevl
